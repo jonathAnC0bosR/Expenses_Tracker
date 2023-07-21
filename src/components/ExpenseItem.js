@@ -6,7 +6,7 @@ export default function ExpenseItem () {
             <div>March 28th 2021</div>
             <div className="expense-item__description">
                 <h2>Car insurance</h2>
-                <div className="expense-item__price">$294.7</div>
+                <div className="expense-item__price">$294.4</div>
             </div>
         </div>
     )
